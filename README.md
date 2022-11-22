@@ -1,6 +1,6 @@
 ### Installation
 
- run npm install in the command line
+ run **npm install** in the command line
 
 ### `npm start`
 
